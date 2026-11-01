@@ -1,0 +1,10 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+results/prep_*.log
+results/preds_*.npz
+results/fixes_raw.csv
+results/nih_meta.csv
+results/analyze.log
